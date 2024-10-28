@@ -36,6 +36,11 @@ This project is confirmed to work on Windows 10.
    ```
 2. **Select Save Directory**: Choose where to save the screenshots using the provided GUI button.
 3. **Start Monitoring**: Click "Start Monitoring" to begin saving images from the clipboard automatically.
+4. 
+## Note on Icons
+Please place `clipboard.png` in the same directory as the Python code. This file is required for the GUI icon to load properly.
+
+アイコンを表示するために、`clipboard.png` ファイルをPythonコードと同じディレクトリに配置してください。
 
 ## Dependencies
 - **Python 3**
