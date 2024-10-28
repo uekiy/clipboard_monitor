@@ -1,0 +1,2 @@
+# clipboard_monitor
+Clipboard MonitorはPythonのミニアプリです。クリップボードにスクリーンショットが格納されると、ファイル名を付け選択したフォルダに保存します。Tkinterを使用したシンプルなGUI。Windows10で動作確認済み。
