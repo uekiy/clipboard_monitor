@@ -2,6 +2,7 @@
 Clipboard MonitorはPythonのミニアプリです。
 クリップボードを監視し、スクリーンショットが格納されると、自動でファイル名を付け選択したフォルダに保存します。
 Tkinterを使用したシンプルなGUI。Windows10で動作確認済み。
+アプリに表示するアイコン画像を"clipboard.png"と名前を付けて、コードファイルと同じディレクトリに保存しておいてください。
 
 ## Overview
 Clipboard Monitor is a Python mini-app that automates the tedious task of saving screenshots. Whenever an image is copied to the clipboard, this app automatically saves it to a selected folder with a unique filename based on the image dimensions and timestamp.
